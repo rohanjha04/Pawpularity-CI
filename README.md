@@ -15,8 +15,9 @@ To use this project, follow these steps:
 3. To run the streamlit interface, run `streamlit run app.py`
 4. The dataset is publically available at: `https://www.kaggle.com/competitions/petfinder-pawpularity-score/data`
 5. The Experiments folder contains the different experiments we have run as stated in the report. Please refer to the report while viewing the Experiments folder.
-6. The streamlit interface uses the weights of `/Experiments/Sample_weighted_loss_2.5_and_2.ipynb` model. This model has given the best generalised performance.
-7. Find the training logs and output of all the experiments at: `https://www.kaggle.com/code/rohanjha04/pawpularity-ci`. Click on `versions` to get Weights for different experiments along with the training and testing logs.
+6. The weight file for running the model can be found at `https://drive.google.com/file/d/1UNyf6TG3Q5aVT-mZtELeGePHsiKR5ydO/view?usp=share_link`
+7. The streamlit interface uses the weights of `/Experiments/Sample_weighted_loss_2.5_and_2.ipynb` model. This model has given the best generalised performance.
+8. Find the training logs and output of all the experiments at: `https://www.kaggle.com/code/rohanjha04/pawpularity-ci`. Click on `versions` to get Weights for different experiments along with the training and testing logs.
 
 ## Usage
 
