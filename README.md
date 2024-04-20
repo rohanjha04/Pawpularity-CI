@@ -1,4 +1,4 @@
-# Popularity-CI
+# Pawpularity-CI
 
 This repository contains the code for the Minor Project of CS354N, Group 16.
 
@@ -16,7 +16,7 @@ To use this project, follow these steps:
 4. The dataset is publically available at: `https://www.kaggle.com/competitions/petfinder-pawpularity-score/data`
 5. The Experiments folder contains the different experiments we have run as stated in the report. Please refer to the report while viewing the Experiments folder.
 6. The streamlit interface uses the weights of `/Experiments/Sample_weighted_loss_2.5_and_2.ipynb` model. This model has given the best generalised performance.
-7. Find the training logs and output of all the experiments at: `https://www.kaggle.com/code/rohanjha04/pawpularity-ci` versions. Weights for different experiments are also saved along with the training and testing logs.
+7. Find the training logs and output of all the experiments at: `https://www.kaggle.com/code/rohanjha04/pawpularity-ci`. Click on `versions` to get Weights for different experiments along with the training and testing logs.
 
 ## Usage
 
